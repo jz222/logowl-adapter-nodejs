@@ -1,0 +1,19 @@
+{
+    "name": "loggy-adapter-nodejs",
+    "version": "1.0.0",
+    "description": "Adapter to monitor NodeJS web servers.",
+    "main": "lib/index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jz222/loggy-adapter-nodejs.git"
+    },
+    "author": "Timo Zimmermann",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jz222/loggy-adapter-nodejs/issues"
+    },
+    "homepage": "https://github.com/jz222/loggy-adapter-nodejs#readme"
+}
