@@ -58,6 +58,19 @@ loggy.init({
 });
 ```
 
+## Testing
+
+To test if everything works you can just try to execute an undefined function like so.
+
+```javascript
+loggy.init({
+  instance: 'demo',
+  ticket: '2ATNP1AD70'
+});
+
+test();
+```
+
 ## Middleware
 
 If you are using Express, you can also add the LOGGY middleware at the end of your routes.
