@@ -1,6 +1,6 @@
 {
   "name": "@loggy/adapter-nodejs",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Adapter to monitor NodeJS web servers.",
   "main": "lib/index.js",
   "directories": {
