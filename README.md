@@ -92,7 +92,7 @@ try {
 }
 ```
 
-You can also add dynamic badges for a specific error if you want to provide additional information for this specific error. This can be useful if you want to identify the user, who is affected by the error.
+You can also add dynamic badges to a specific error if you want to provide additional information. This can be useful if you want to identify the user, who is affected by the error.
 
 ```javascript
 try {
