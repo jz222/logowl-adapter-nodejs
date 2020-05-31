@@ -1,6 +1,6 @@
 {
     "name": "@logowl/adapter-nodejs",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "description": "Adapter to monitor NodeJS web servers.",
     "main": "lib/index.js",
     "directories": {
